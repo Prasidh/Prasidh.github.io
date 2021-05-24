@@ -3,13 +3,13 @@
 ### Experience
 
 #### Master's Academy
-##### Startup, January 2017 - Present
+#### Startup, January 2017 - Present
 
-Read more [here](./PrasidhSriram_Resume.PDF)
+•	Designed and developed web application to determine whether untested OTC drugs contain carcinogenic ingredients, reducing data retrieval times from 10 minutes to <1 second (React.js, Java, DrugBank API).
+•	Collected and analyzed sales data from Amazon Vendor portal to determine which drugs sold the best at local    pharmacies, improving Aurobindo’s revenue goals by 8% for the quarter (SQL, R).
+•	Engineered backend systems to model cost/revenue data, giving employees easy access to visualize sale data (SQL, R).
+•	Worked in close cooperation with project managers and other team members in an AGILE development environment.
 
-You can use the [editor on GitHub](https://github.com/Prasidh/Prasidh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
