@@ -1,5 +1,10 @@
 ## About Sid Sriram
 
+### Experience
+
+#### Master's Academy
+##### Startup, January 2017 - Present
+
 Read more [here](./PrasidhSriram_Resume.PDF)
 
 You can use the [editor on GitHub](https://github.com/Prasidh/Prasidh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
