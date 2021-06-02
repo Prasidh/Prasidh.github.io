@@ -32,4 +32,4 @@
 •	Resolved IT support tickets for end users by identifying the root cause, providing immediate workarounds, and solving underlying problems.
 
 
-###### Powered by [GitHub Pages](pages.github.io)
+###### Powered by [GitHub Pages](pages.github.com)
