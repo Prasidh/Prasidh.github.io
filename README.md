@@ -2,7 +2,7 @@
 
 ## Experience
 
-### Master's Academy
+### LabCorp Drug Development
 #### Data Scientist, June 2021 - Present
 
 •	Generated, cleaned, and validated drug testing datasets according to Standard Exchange of Nonclinical Data (SEND) industry format, helping determine the safety and efficacy of 100+ prospective drug compounds (SQL, R).
